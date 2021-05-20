@@ -1,0 +1,26 @@
+.mention {
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    font-size: 10px;
+}
+
+.mention li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    text-align: center;
+    text-transform: uppercase;
+    list-style-type: none;
+}
+
+.mention a {
+    color: black;
+    display: inline-block;
+    margin: 0 5px;
+    text-decoration: none;
+}
+

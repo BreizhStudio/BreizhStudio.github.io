@@ -1,0 +1,20 @@
+.telechargement {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+}
+
+.dl_text {
+    display: block;
+    background: black;
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    width: 320px;
+    text-align: center;
+    border-radius: 35px;
+    font-size: 20px;
+    text-transform: uppercase;
+}

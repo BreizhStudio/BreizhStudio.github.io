@@ -1,0 +1,9 @@
+.image {
+    background-size: cover;
+    width: 1600px;
+    height: 800px;
+}
+
+.image img {
+    display: none;
+}
